@@ -1,6 +1,6 @@
 # Recommender system in Python
 
-A recommender system for movies written in Python using **pandas** and **NumPy**. *MovieLens* dataset was used for learning the model.
+A recommender system for movies written in Python using **pandas** and **NumPy** libraries. *MovieLens* dataset was used for learning the model.
 
 **Jupyter Notebook** was used for writing the code. You can take a look at performed calculations as well as the code itself [**HERE**](https://github.com/MrPatrek/python-movielens-recommender-system/blob/main/python-movielens-rec-sys.ipynb).
 
